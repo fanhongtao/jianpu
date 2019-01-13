@@ -1,6 +1,6 @@
 \version "2.18.2"
 \language "english"
-\include "jianpu5.ly"
+\include "jianpu6.ly"
 
 notesOne = {
   \key c \major

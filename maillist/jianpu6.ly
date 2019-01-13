@@ -115,7 +115,7 @@
                                  ((4) "fa")
                                  ((5) "so")
                                  ((6) "la")
-                                 ((7) "to")
+                                 ((7) "ti")
                                  (else "0")))
                  (glyph-string (case jianpu-number
                                  ((1) "one")
@@ -131,10 +131,7 @@
                               (markup #:musicglyph glyph-string)
                               (if (string= Jianpu.style "solfege")
                               (markup solfege-string) 
-                              ()
-                              )
-                              )
-                              ))
+                              ()))))
 
                  ;; TODO: handle dotted notes
                  ;; but how to access dots grob from note head grob?
