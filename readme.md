@@ -13,3 +13,13 @@ Since I know nothing about scheme, so the first step is STUDY SCHEME.
 Hope I can change the code within a month.
 
 Fan Hongtao
+
+2019-01-13
+
+---
+
+TODO list:
+
+- [x] GrandStaff (and PianoStaff) can draw brace.
+- [ ] Move key & time signature to one line above the notes.
+- [ ] Same lyrics can be used for both stave and jianpu.
