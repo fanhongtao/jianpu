@@ -342,7 +342,7 @@ jianpuMusic =
 
     \override Accidental.font-size = #-2.5
     \override Clef.stencil = ##f
-    \override StaffSymbol.line-count = #0
+    \omit StaffSymbol % \override StaffSymbol.line-count = #0
     \override BarLine.bar-extent = #'(-2 . 2)
     \override TimeSignature.style = #'numbered
     % \override Stem.transparent = ##t
