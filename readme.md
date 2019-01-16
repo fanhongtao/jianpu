@@ -21,5 +21,5 @@ Fan Hongtao
 TODO list:
 
 - [x] GrandStaff (and PianoStaff) can draw brace.
-- [ ] Move key & time signature to one line above the notes.
+- [x] Move key & time signature to one line above the notes. (see [move-key-and-time-up2.ly](work/move-key-and-time-up2.ly))
 - [ ] Same lyrics can be used for both stave and jianpu.
